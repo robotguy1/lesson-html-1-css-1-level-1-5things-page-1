@@ -25,6 +25,12 @@
   3. [ ] google
 
 ### Project details
-  1. Project name:
+  1. Project name: dc-10
   2. Project summary:
+  this website will have some interesting facts about a dc-10 in a 3D model with a description
+    1. menu
+    2.facts
+    3.description
+    4.3D model of a dc-10
   3. Project coordinator:
+  
